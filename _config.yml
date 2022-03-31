@@ -13,7 +13,7 @@ baseurl: ''
 lang: zh-CN
 
 # Additional parameters for datetime localization, optional. › https://github.com/iamkun/dayjs/tree/dev/src/locale
-prefer_datetime_locale: Asia/Shanghai
+prefer_datetime_locale: Asia/Lanzhou
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone:
@@ -21,9 +21,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 湾区书记汤姆                         # the main title
+title: SwordX个人博客                        # the main title
 
-tagline: 这里是湾区书记汤姆的博客～   # it will display as the sub-title
+tagline: 欢迎来到SwordX的个人博客   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
     这是通过Chirpy主题配置而成的
@@ -32,20 +32,18 @@ description: >-                        # used by seo meta and the atom feed
 url: ''
 
 github:
-  username: tomstillcoding             # change to your github username
+  username: SwordXiaoJ            # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: tomstillcoding
-  email: example@doamin.com             # change to your email address
+  name: SwordXiaoJ
+  email: 408555810@qq.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/SwordXiaoJ       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
