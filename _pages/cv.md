@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download PDF version]({{ base_path }}/files/Jian_Xiao_Resume.pdf){: .btn}
+
 Education
 ======
 * **Ph.D. in Computer Science & Engineering**, Washington University in St. Louis, Aug. 2025 – Present

@@ -21,6 +21,3 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
-
-# Personal CV PDF — kept locally, not published
-files/Jian_Xiao_s_Resume_Phd_apply.pdf
